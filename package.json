@@ -1,0 +1,11 @@
+{
+  "name": "harview",
+  "version": "1.0.0",
+  "description": "summarize you some har",
+  "main": "har.js",
+  "author": "Timothy Sullivan <tsullivan@elastic.co>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^4.19.1"
+  }
+}
